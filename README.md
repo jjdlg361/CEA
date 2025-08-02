@@ -11,5 +11,3 @@ This codebase implements the methodology described in the paper. It processes ea
 
 Due to licensing restrictions, the raw earnings call transcripts obtained from Refinitiv Eikon are **not included**. However, all intermediate files required to replicate the results—including processed sentiment scores, word weightings, and portfolio returns—are included.
 
-## Repository Contents
-
